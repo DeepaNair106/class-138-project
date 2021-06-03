@@ -1,0 +1,43 @@
+.heading{
+    width:100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+
+
+#start , #status , #restart{
+    font-size: 18px;
+}
+
+h4{
+    background-color: white;
+    line-height:2;
+    margin:0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+
+.instruction_img{
+    width: 45%;
+    display: inline-block;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:white;
+    color: black;
+    text-align: center;
+}
